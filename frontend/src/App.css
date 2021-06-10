@@ -1,0 +1,38 @@
+.app {
+  margin-top: 10vh;
+}
+
+.btn {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.id-form {
+  width: 500px;
+  margin-top: 100px;
+  margin-left: 20px;
+  height: 100px;
+  margin-right: 20px;
+}
+.form-control {
+  height: 50px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+.input-group-text {
+  height: 50px;
+}
+.btn-search {
+  border-radius: 5px !important;
+  margin-left: 0;
+  margin-top: 0;
+}
+.home-head {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 2.2rem;
+  text-decoration: underline;
+  font-family: "Montserrat", sans-serif;
+}
